@@ -3,6 +3,8 @@
 Simple Task List app using Composition API
 https://vueschool.io/lessons/vue-fundamentals-capi-reactivity-fundamentals
 
+Preview: home-5007658777.app-ionos.space
+
 To add:
 
 1. Visual sorting of tasks (done/undone & by priority)
